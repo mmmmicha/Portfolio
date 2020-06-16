@@ -1,8 +1,6 @@
 # Portfolio
 
-↑↑↑ Click Issues!! ↑↑↑  
-
-개발자 정광현을 소개합니다!!
+- PDF Download : [개발자 정광현을 소개합니다]()
 
 목차
   - 자기소개
