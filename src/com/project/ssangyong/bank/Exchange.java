@@ -1,4 +1,4 @@
-package com.project.bank;
+package com.project.ssangyong.bank;
 
 import java.util.Currency;			// 현재 위치(나라) 설정 후, 그 위치에 기반한 정보 method들 사용 가능
 import java.util.Locale;			// Currency class의 method 사용 시, 나라 설정을 위한 class

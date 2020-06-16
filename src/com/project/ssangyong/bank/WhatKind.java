@@ -1,4 +1,4 @@
-package com.project.bank;
+package com.project.ssangyong.bank;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

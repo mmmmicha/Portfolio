@@ -6,7 +6,7 @@
 
   - 세부 주제 : 고객의 동선에 따른 은행 업무 처리
 =================================================*/
-package com.project.bank;
+package com.project.ssangyong.bank;
 
 public class Bank extends ChangGu							// 본격적인 프로그램 실행이 진행 될 클래스
 {

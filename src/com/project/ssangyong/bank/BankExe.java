@@ -1,4 +1,4 @@
-package com.project.bank;
+package com.project.ssangyong.bank;
 
 public class BankExe extends Customer
 {
