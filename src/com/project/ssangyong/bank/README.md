@@ -19,6 +19,8 @@
   - 트랜잭션에 대한 이해를 바탕으로 예금/출금 기능 구현 
   - 상속개념을 적용하여 유기적인 데이터 수정 기틀 마련 
   - 프로젝트 총괄
+  
+<image src='https://github.com/wjdrhkd456/Portfolio/blob/master/src/com/project/ssangyong/bank/images/bank.png'/>
 
       
   
