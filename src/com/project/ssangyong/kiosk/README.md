@@ -18,4 +18,5 @@
   - HashTable 을 이용해 db 를 대체하여 식당에 대한 메뉴정보와 점주가 가지고 있는 식당정보를 저장하는 기능 구축
   - 거래내역을 구현하기 위해 sequence의 역할을 대체할 변수를 지정하여 거래내역을 담당하는 Hashtable에 등록될때마다 변수를 증가하게 하여 장바구니와 실적에 대한 시간적인 컨트롤 기능 구축
   - 프로젝트 총괄
-
+<br/>
+<image src='https://github.com/wjdrhkd456/Portfolio/blob/master/src/com/project/ssangyong/kiosk/images/hidden.png' width='400px' height='600px'/> <image src='https://github.com/wjdrhkd456/Portfolio/blob/master/src/com/project/ssangyong/kiosk/images/menu_select.png' width='400px' height='600px'/>
